@@ -1,7 +1,7 @@
 # Multi-threading - Dining Philosophers Problem
 
 <p align="center">
-  <img src="./assets/philo_logo.png" alt="project badge"/>
+  <img src="./assets/philo.png" alt="project badge"/>
 </p>
 
 ## Overview
